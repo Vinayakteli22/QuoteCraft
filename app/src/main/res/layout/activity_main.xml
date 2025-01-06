@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F9FAFB"
+    tools:context=".MainActivity">
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="65dp"
+        android:fontFamily="@font/poppins_bold"
+        android:text="@string/createquote"
+        android:textColor="#34495E"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Quote Card -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_marginHorizontal="16dp"
+        android:backgroundTint="#FFFFFF"
+        android:elevation="8dp"
+        app:cardCornerRadius="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/title">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/quote"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_medium"
+                android:gravity="center"
+                android:padding="8dp"
+                android:text="@string/quoteapper"
+                android:textColor="#2C3E50"
+                android:textSize="18sp"
+                android:textStyle="italic"
+                tools:text="The mirror is a worthless invention..." />
+
+            <TextView
+                android:id="@+id/author"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/poppins_light"
+                android:gravity="center"
+                android:text="@string/authorname"
+                android:textColor="#7F8C8D"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- Instructions -->
+    <TextView
+        android:id="@+id/instructions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="@string/quoteinstrction"
+        android:textColor="#2C3E50"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@id/share"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/cardView" />
+
+    <!-- Share Button -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/share"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="32dp"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="#1ABC9C"
+        android:fontFamily="@font/poppins_medium"
+        android:padding="12dp"
+        android:text="@string/sharebtn"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/instructions" />
+
+    <!-- Next Button -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/next"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="32dp"
+        android:layout_marginTop="26dp"
+        android:backgroundTint="#3498DB"
+        android:fontFamily="@font/poppins_medium"
+        android:padding="12dp"
+        android:text="@string/nextbtn"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/share" />
+
+    <!-- Lottie Animation -->
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/fetchprogress"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginBottom="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/fetchingprograssbar" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

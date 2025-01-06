@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuoteCraft</string>
+    <string name="appname">QuoteCraft</string>
+    <string name="appheading">Awesome quotes for you</string>
+    <string name="appheading1">Hold on..</string>
+    <string name="appheading2">We are fetching quotes fro you</string>
+    <string name="imageDes">app logo</string>
+    <string name="createquote">Create Your Quote</string>
+    <string name="quoteapper">Your quote will appear here.</string>
+    <string name="authorname">- Author Name</string>
+    <string name="quoteinstrction">Quote generated! Share it with others or create another one!</string>
+    <string name="sharebtn">Share</string>
+    <string name="nextbtn">Next</string>
+</resources>
