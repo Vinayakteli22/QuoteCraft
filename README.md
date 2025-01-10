@@ -82,8 +82,9 @@ GitHub: Vinayak Teli
 Download the APK:
 
 Click here to download the APK
-Install the App:
+ https://github.com/Vinayakteli22/QuoteCraft/releases/download/QuoteCraft/QuoteCraft.apk
 
+Install the App:
 Transfer the APK file to your Android device.
 Open the APK file on your device and follow the instructions to install.
 Ensure you allow installations from unknown sources in your device settings.
