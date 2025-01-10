@@ -75,3 +75,18 @@ GitHub: Vinayak Teli
 ⭐ If you find this project helpful, don't forget to give it a star!
 
   Let me know if you'd like me to tweak anything further! 🚀
+
+
+
+🚀 Usage
+Download the APK:
+
+Click here to download the APK
+Install the App:
+
+Transfer the APK file to your Android device.
+Open the APK file on your device and follow the instructions to install.
+Ensure you allow installations from unknown sources in your device settings.
+Explore the Features:
+
+Open the app to start generating, viewing, and sharing inspiring quotes.
