@@ -80,9 +80,8 @@ GitHub: Vinayak Teli
 
 🚀 Usage
 Download the APK:
+[Download the APK](https://github.com/Vinayakteli22/QuoteCraft/releases/download/QuoteCraft/QuoteCraft.apk)
 
-Click here to download the APK
- https://github.com/Vinayakteli22/QuoteCraft/releases/download/QuoteCraft/QuoteCraft.apk
 
 Install the App:
 Transfer the APK file to your Android device.
