@@ -29,7 +29,7 @@ QuoteCraft is an Android application designed to provide daily doses of motivati
 
 | **Home Screen**            | **Quote Display Screen**      |  
 |-----------------------------|-------------------------------|  
-| ![Home Screen](path-to-home-screenshot) | ![Quote Screen](path-to-quote-screenshot) |  
+| ![Home Screen](https://github.com/Vinayakteli22/QuoteCraft/blob/master/Home.jpg) | ![Quote Screen](path-to-quote-screenshot) |  
 
 ---
 
