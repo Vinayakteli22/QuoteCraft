@@ -10,7 +10,7 @@ QuoteCraft is an Android application designed to provide daily doses of motivati
 - **Dynamic Quote Fetching**: Fetches motivational quotes from an API in real-time.  
 - **Minimalist UI**: A clean and intuitive user interface designed with Material Design principles.  
 - **Engaging Animations**: Smooth animations powered by Lottie for a professional and interactive experience.  
-- **Shareable Quotes**: Easily share your favorite quotes with others.  
+- **Shareable Quotes**: Effortlessly share your favorite quotes with others. The app allows you to share quotes directly on social media platforms or with your friends and family.  
 - **Optimized Performance**: Lightweight APK with ProGuard and resource shrinking.  
 
 ---
@@ -29,7 +29,7 @@ QuoteCraft is an Android application designed to provide daily doses of motivati
 
 | **Home Screen**            | **Quote Display Screen**      |  
 |-----------------------------|-------------------------------|  
-| ![Home Screen](https://github.com/Vinayakteli22/QuoteCraft/blob/master/Home.jpg) | ![Quote Screen](path-to-quote-screenshot) |  
+| ![Home Screen](https://github.com/Vinayakteli22/QuoteCraft/blob/master/Home.jpg) | ![Quote Screen](https://github.com/Vinayakteli22/QuoteCraft/blob/master/Quote.jpg) |  
 
 ---
 
@@ -43,4 +43,4 @@ QuoteCraft is an Android application designed to provide daily doses of motivati
 ### Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/QuoteCraft.git  
+   git clone https://github.com/Vinayakteli22/QuoteCraft.git  
