@@ -42,5 +42,36 @@ QuoteCraft is an Android application designed to provide daily doses of motivati
 
 ### Installation  
 1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/Vinayakteli22/QuoteCraft.git  
+    
+   git clone https://github.com/Vinayakteli22/QuoteCraft.git
+2. Open the project in Android Studio.
+3. Sync the Gradle files.
+4. Run the app on an emulator or a physical device.
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
+
+1. Fork the repository.
+2. Create your feature branch:
+    git checkout -b feature/new-feature  
+3. Commit your changes:
+   git commit -m "Add new feature"  
+4. Push to the branch:
+   git push origin feature/new-feature  
+Open a pull request.
+
+🙌 Acknowledgements
+API Provider: Special thanks to the API provider for the amazing quotes.
+Internship Team: Grateful for the guidance and mentorship during this project.
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+📧 Contact
+Author: Vinayak Teli
+Email: vinayakteli075@gmail.com
+GitHub: Vinayak Teli
+
+⭐ If you find this project helpful, don't forget to give it a star!
+
+  Let me know if you'd like me to tweak anything further! 🚀
