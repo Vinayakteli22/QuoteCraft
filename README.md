@@ -63,6 +63,7 @@ Open a pull request.
 🙌 Acknowledgements
 
 API Provider: Special thanks to the API provider for the amazing quotes.
+
 Internship Team: Grateful for the guidance and mentorship during this project.
 
 
