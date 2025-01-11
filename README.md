@@ -61,16 +61,10 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 Open a pull request.
 
 🙌 Acknowledgements
+
 API Provider: Special thanks to the API provider for the amazing quotes.
 Internship Team: Grateful for the guidance and mentorship during this project.
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-📧 Contact
-Author: Vinayak Teli
-Email: vinayakteli075@gmail.com
-GitHub: Vinayak Teli
 
 ⭐ If you find this project helpful, don't forget to give it a star!
 
@@ -90,3 +84,12 @@ Ensure you allow installations from unknown sources in your device settings.
 Explore the Features:
 
 Open the app to start generating, viewing, and sharing inspiring quotes.
+
+📄 License:
+    This project is licensed under the MIT License - see the LICENSE file for details.
+
+📧 Contact:
+    1. Author: Vinayak Teli
+    2. Email: vinayakteli075@gmail.com
+    3. GitHub: VinayakTeli22
+
